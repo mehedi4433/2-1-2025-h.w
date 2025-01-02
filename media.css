@@ -1,0 +1,161 @@
+@media (max-width:573px){
+    .search{
+        display: hidden;
+    }
+
+    .dropdown-menu-register{
+        left: 1px !important;
+    }
+
+    .search{
+        width: 350px;
+        border: none;
+        background-color: #F3F4F6;
+        padding: 8px 20px;
+        margin: 40px 0 40px 40px !important;
+    }
+
+    .exclusive img{
+        width: 130px !important;
+    }
+
+    .categories-card{
+        width: 8rem !important;
+        height: 8rem !important;
+    }
+
+    .categories-card h5{
+        font-size: 0.875rem;
+    }
+
+    .categories-card img{
+        height: 5rem !important;
+    }
+
+    .brand-card{
+        width: 8rem !important;
+        height: 8rem !important;
+    }
+
+    .brand-card h5{
+        font-size: 0.875rem;
+    }
+
+    .brand-card img{
+        height: 5rem !important;
+    }
+
+    .exclusive-img{
+        width: 100px;
+    }
+
+}
+
+@media (max-width:991px){
+
+    .categories-card{
+        width: 8.5rem;
+        height: 9rem;
+    }
+
+    .categories-card h5{
+        font-size: 0.875rem;
+    }
+
+    .brand-card{
+        width: 8.5rem;
+        height: 9rem;
+    }
+
+    .brand-card h5{
+        font-size: 0.875rem;
+    }
+
+    .categories-btn{
+        width: 300px;
+    }
+
+}
+
+@media (max-width:1199px){
+
+    .search{
+        width: 300px;
+        padding: 5px 20px;
+    }
+
+    .navber-icons{
+        gap: 1rem;
+        align-items: center;
+    }
+
+    .carousel-item img{
+        height: 350px !important;
+    }
+    
+    .exclusive img{
+        width: 280px !important;
+    }
+    
+    .email{
+        width: 280px;
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        border: none;
+        outline: none;
+    }
+
+    .categories-card{
+        width: 10rem;
+        height: 10rem;
+    }
+
+    .categories-card h5{
+        font-size: 0.875rem;
+    }
+
+    .categories-card img{
+        height: 7rem;
+    }
+
+    .brand-card{
+        width: 10rem;
+        height: 10rem;
+    }
+
+    .brand-card h5{
+        font-size: 0.875rem;
+    }
+
+    .brand-card img{
+        height: 7rem;
+    }
+}
+
+@media (max-width:766px){
+
+    .carousel-item img{
+        height: 200px !important;
+    }
+
+    .exclusive img{
+        width: 160px !important;
+    }
+
+    footer{
+        display: none;
+    }
+}
+
+@media (max-width:1399px){
+    .carousel-item img{
+        height: 400px;
+    }
+    
+}
+
+@media (max-width:290px){
+    .carousel-item img{
+        height: 200px !important;
+    }
+}
